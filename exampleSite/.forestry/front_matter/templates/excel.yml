@@ -34,3 +34,24 @@ fields:
     - type: text
       name: social
       label: social
+- name: excel
+  type: text
+  config:
+    required: false
+  label: excel
+  description: <a href="https://eusens.com/6es7214-1ag40-0xb0/" title="https://eusens.com/6es7214-1ag40-0xb0/"
+    target="_blank">https://eusens.com/6es7214-1ag40-0xb0/</a>
+- name: try
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: try
+  description: <a href="https://eusens.com/6es7214-1ag40-0xb0/" title="https://eusens.com/6es7214-1ag40-0xb0/"
+    target="_blank">https://eusens.com/6es7214-1ag40-0xb0/</a>
